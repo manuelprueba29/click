@@ -15,3 +15,8 @@ class Client:
     @staticmethod
     def schema():
         return ['name', 'company', 'email', 'position', 'uid']
+    
+
+    #commands permite interactuar con  lo grafico
+    #models maneja atributos, construcotores
+    #services maneja la logica de negocio
